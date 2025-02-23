@@ -4,9 +4,9 @@
 This project evaluates the potential acquisition of Parch & Posey by Dunder Mifflin, analyzing market trends, revenue streams, and sales performance. The goal is to determine whether expanding into new regions would provide strategic growth opportunities and operational benefits for both companies.
 
 ## Key Objectives
-- Assess the current market position** and growth trajectory of Parch & Posey.  
-- Identify new market opportunities** in North, South, and International regions.  
-- Evaluate sales representative productivity and recommend **optimal resource allocation.  
+- Assess the current market position and growth trajectory of Parch & Posey.  
+- Identify new market opportunities in North, South, and International regions.  
+- Evaluate sales representative productivity and recommend optimal resource allocation.  
 - Determine high-value customer segments to enhance targeting strategies.  
 - Analyze marketing channel effectiveness and recommend optimizations.  
 

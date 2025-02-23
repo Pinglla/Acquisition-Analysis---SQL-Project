@@ -1,5 +1,7 @@
 # Acquisition-Analysis---SQL-Project
 
+[Project PDF](Acquisition_Analysis.pdf)
+
 ## Project Overview
 This project evaluates the potential acquisition of Parch & Posey by Dunder Mifflin, analyzing market trends, revenue streams, and sales performance. The goal is to determine whether expanding into new regions would provide strategic growth opportunities and operational benefits for both companies.
 
@@ -43,7 +45,7 @@ This project evaluates the potential acquisition of Parch & Posey by Dunder Miff
   - Achieve economies of scale through cost-saving synergies (bulk purchasing, streamlined operations, shared services).  
   - Strengthen market positioning and gain a competitive advantage.  
 
-## Next Steps**  
+## Next Steps
 - Conduct further research on new regions (International, South, North) to assess market potential.  
 - Analyze competitor strategies in both existing and new markets.  
 - Evaluate Parch & Posey’s assets to determine their long-term value.  
